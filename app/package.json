@@ -1,0 +1,20 @@
+{
+  "name": "madchatbot",
+  "version": "1.0.0",
+  "description": "MAD Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "nlp"
+  ],
+  "dependencies": {
+    "express": "^4.14.1",
+    "pug": "^2.0.0-beta11"  
+  },
+  "author": "MAD",
+  "license": "GPL-3.0"
+}
